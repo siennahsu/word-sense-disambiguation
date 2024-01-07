@@ -1,0 +1,12 @@
+NLTK lemmatizer: https://www.nltk.org/\_modules/nltk/stem/wordnet.html 
+NLTK tokenizer: https://www.nltk.org/api/nltk.tokenize.html 
+Sklearn count vectorizer: https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.CountVectorizer.html 
+ChatGPT: https://chat.openai.com/auth/login?iss=https%3A%2F%2Fauth0.openai.com%2F 
+WordNet: http://wordnetweb.princeton.edu/perl/webwn?s=&sub=Search+WordNet&o2=&o0=1&o8=1&o1=1&o7=&o5=&o9=&o6=1&o3=&o4=&h= 
+NLTK Synset: https://www.nltk.org/howto/wordnet.html 
+Sklearn semi-supervised learning: https://scikit-learn.org/stable/modules/semi_supervised.html 
+Sklearn Label Spreading model: https://scikit-learn.org/stable/modules/generated/sklearn.semi\_supervised.LabelSpreading.html#sklearn.semi\_supervised.LabelSpreading
+CNB performing better than MNB: https://scikit-learn.org/stable/modules/naive_bayes.html 
+Complement Naive Bayes: https://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.ComplementNB.html#sklearn.naive_bayes.ComplementNB 
+Sklearn grid search: https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html 
+Sklearn classification report: https://scikit-learn.org/stable/modules/generated/sklearn.metrics.classification_report.html 

@@ -1,0 +1,26 @@
+prompt for country:
+
+generate 50 sentences with the word "country" where the word "country" would have word sense "country%1:14:00:" under WordNet standard.
+generate 50 sentences with the word "country" where the word "country" would have word sense "country%1:15:01::" under WordNet standard. 
+generate 100 sentences that contain the words "country", where in some sentences, "country" means "nation", and in some sentences, "country" means "rural area"
+
+prompt for game:
+generate 50 sentences containing the word "game" where game means "secret plan" or "plot"
+generate 50 sentences containing the word "game" where game means "a single play of a sport or other contest"
+generate 100 sentences that contain the words "game", where in some sentences, "game" means "secret plot", and in some sentences, "game" means "a single play of a sport or other contest". each sentence must contain the word "game".
+
+prompt for action:
+generate 50 sentences containing the word "action" where action means "something done (usually as opposed to something said"
+generate 50 sentences containing the word "action" where action means "an act by a government body or supranational organization"
+generate 100 sentences that contain the words "action", where in some sentences, "action" means "something done (usually as opposed to something said)", and in some sentences, "action" means "an act by a government body or supranational organization". each sentence must contain the word "action".
+
+
+prompt for claim:
+generate 50 sentences containing the word "claim" where claim means "an assertion that something is true or factual"
+generate 50 sentences containing the word "claim" where claim means "demand for something as rightful or due"
+generate 100 sentences that contain the words "claim", where in some sentences, "claim" means "an assertion that something is true or factual", and in some sentences, "claim" means "demand for something as rightful or due". each sentence must contain the word "claim"
+
+prompt for time:
+generate 50 sentences containing the word “time” where time means "an instance or single occasion for some event"
+generate 50 sentences containing the word “time” where time means "a period of time considered as a resource under your control and sufficient to accomplish something"
+generate 100 sentences that contain the word “time”, where in some sentences, “time” means "an instance or single occasion for some event", and in some sentences, “time” means "a period of time considered as a resource under your control and sufficient to accomplish something". each sentence must contain the word “time”
